@@ -13,5 +13,4 @@ public class GreaterNumber {
 			System.out.println(n2+" is greater than "+n1);
 		}
 	}
-
 }
