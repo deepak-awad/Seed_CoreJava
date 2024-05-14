@@ -16,12 +16,4 @@ public class Student {
 		System.out.println("Roll No: "+rollno+" Name: "+name+" Marks: "+marks);
 	}
 	
-	public static void main(String args[])
-	{
-		Student s = new Student();
-		s.initialize();
-		s.display();
-	}
-	
-
 }
