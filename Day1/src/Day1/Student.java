@@ -1,4 +1,4 @@
-package Main;
+package Day1;
 
 public class Student {
 	
